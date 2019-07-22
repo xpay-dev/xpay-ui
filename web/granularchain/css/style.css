@@ -1208,7 +1208,7 @@ p.contact_success_box{
 	height:65px;
     background: #fff;
 	border: none;
-    color:#1e90ff;  
+    color:#76bd2a;  
     display: inline;
 	margin:0 0 0 -5px;
     -moz-border-radius: 0 5px 5px 0;
@@ -1224,7 +1224,7 @@ p.contact_success_box{
 
 #newsletter-form #submit-button-newsletter:hover {
 	cursor: pointer;
-	color:#0370ec;
+	color:#154f7d;
     background-color:#fff;
 	transition: background-color .25s ease-in-out;
    -moz-transition: background-color .25s ease-in-out;
@@ -1303,60 +1303,6 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 	line-height: 22px;
 	margin-right: 10px;
 	vertical-align: text-top;
-}
-
-.btn-blue {
-	font-family: 'Dosis', sans-serif;
-	font-size: 18px;
-	line-height: 22px;
-	font-weight: 600;
-	color: #fff;
-	background-color: #76bd2a;
-    box-shadow: 0px 8px 40px 0 rgba(0, 0, 0, 0.37);
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.25);
-    letter-spacing: 1px;
-	border-radius: 5px 5px;
-	margin: 10px 10px 0 10px 0;
-	padding: 20px 30px;
-	display: inline-block;
-	transition: all 0.4s ease-in-out;
-	-webkit-transition: all 0.4s ease-in-out;
-}
-
-.btn-blue:hover{
-	box-shadow: 0px 4px 10px 0 rgba(0, 0, 0, 0.5);
-	color: #fff!important;
-	background:#3498db;
-}
-
-.btn-blue.small, .btn-blue-line.small {
-	font-size: 16px;
-	padding: 14px 20px;
-}
-
-.btn-blue-line {
-	font-family: 'Dosis', sans-serif;
-	font-size: 18px;
-	line-height: 22px;
-	font-weight: 600;
-	color: #017df7;
-	background-color: transparent;
-	border:1px solid #76bd2a;
-	border-radius: 10px 10px;
-	margin: 20px 10px 0 10px 0;
-	padding: 20px 30px;
-	display: inline-block;
-	transition: all 0.4s ease-in-out;
-	-webkit-transition: all 0.4s ease-in-out;
-}
-
-.btn-blue-line:hover{
-	color: #fff!important;
-	background:#3498db;
-}
-
-a.btn-blue:visited, a.btn-blue:focus{
-	color: #fff!important;
 }
 
 /* ----- Green Button -----*/
